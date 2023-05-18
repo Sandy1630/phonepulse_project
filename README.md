@@ -7,8 +7,8 @@ data Visualization using python,mysql,streamlit and plotly
 1.we are creating json file to csv file.
 
 
-2. upload mysql database.
 
+2. upload mysql database.
 
 
 
