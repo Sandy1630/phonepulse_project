@@ -2,7 +2,7 @@
 data Visualization using python,mysql,streamlit and plotly
 
 # Technologies:
-###python,pandas,MYSQL,Mysql.connector-python,streamlit and plotly
+python,pandas,MYSQL,Mysql.connector-python,streamlit and plotly
 # Process
 1.we are creating json file to csv file.
 
