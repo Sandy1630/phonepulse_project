@@ -8,7 +8,7 @@ data Visualization using python,mysql,streamlit and plotly
 
 
 
-2. upload mysql database.
+2.upload mysql database.
 
 
 
