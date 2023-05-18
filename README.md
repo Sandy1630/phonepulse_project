@@ -1,5 +1,5 @@
 # Phonepe-Pulse
-data Visualization using python,mysql,streamlit and plotly
+Data Visualization using python,mysql,streamlit and plotly
 
 # Technologies:
 python,pandas,MYSQL,Mysql.connector-python,streamlit and plotly
